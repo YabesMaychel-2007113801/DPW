@@ -1,0 +1,29 @@
+p{
+    font-family :'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+
+.p1 p{
+
+    background-color: blue;
+    text-align: center;
+    /*text-decoration-line: underline ;
+    text-decoration-color: chartreuse;*/
+    text-decoration: 10px underline blue ;
+    text-indent: 10px; 
+    letter-spacing: 5px;
+    word-spacing: 10%;
+}
+
+.header{
+    min-height: 100vh ;
+    width: auto;
+  background-image: url(/IMAGE/logo\ unri.jpeg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}

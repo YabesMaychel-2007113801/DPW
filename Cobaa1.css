@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.atas{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/IMAGE/mejakerja.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.atas ul{
+    float: right;
+}
+.atas ul li{
+    display: inline-block;
+}
+.atas ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+    font-size: 15pt;
+    text-decoration: none;
+    color: white;
+}
+img{
+    width: 150px;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30pt;
+    color:white;
+    margin-top: 18%;
+}
+.atas p{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    margin-top: 8px;
+}
+.medsos{
+    height: 60vh;
+    background-color: white;
+}
+.medsos p{
+    font-family: sans-serif;
+    color : black;
+    font-size: 20px;
+    text-align: left;
+    margin:auto;
+    margin-top: 12px;
+}
+.bagiankiri{
+    margin-left:25px;
+    width:45%;
+    float:left;
+}
+.bagiankanan{
+    width:45%;
+    margin-right: 25px;
+    float:right;
+}
+.medsos img{
+    margin: auto;
+    display:block;
+}
+.medsos h2{
+    text-align: center;
+}
+.medsos h4{
+    text-align: center ;
+}
+.bawah{
+    background-color: #111;
+    color: #efefef;
+    text-align: center;
+    margin-top: 10%;
+    width: 100%;
+    padding:25px;
+}
+
+button {
+    background-color: rgb(16, 206, 16);
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11pt;
+    margin: auto;
+    display: block;
+}
+
+.bttn {
+    margin-top: 10px;
+}

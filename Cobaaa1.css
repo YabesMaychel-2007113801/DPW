@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum Ketiga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="atas">
+        <div class="topbar">
+            <div class="logo">
+                <img src="img/119.png" alt="Logo 119">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="cv.html">CV</a></li>
+                </ul>
+            </nav>
+        </div>
+        <h1>Welcome to My Blog</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, rerum ad. Facilis dolore vitae officia? Sapiente, molestiae!</p>
+    </div>
+    <div class="bawah">
+        <div class="repo kiri">
+            <img src="img/github.png" alt="logo github">
+            <h2>Slide Presentasi dan Penampilan</h2>
+            <h4>pienapin</h4>
+            <p>Pada tulisan kali ini saya akan membahas mengenai software presentasi yang identik dengan penampilan, maka saya juga akan membahas mengenai penampilan. Penampilan adalah salah satu hal yang sekarang sangat dipentingkan oleh orang-orang.<span id="dots">..</span><span id="penampilan"><br>&emsp;&emsp;Tidak dapat dipungkiri lagi, pada generasi sekarang, banyak dari mereka yang dibutakan oleh penampilan, baik penampilan sendiri ataupun penampilan orang lain. Media sosial membangun standar kecantikan kepada mereka dengan menyuguhkan konten-konten orang-orang yang mereka anggap memiliki penampilan lebih baik dari mereka. Pada akhirnya kepercayaan diri mereka direnggut oleh standar itu, mereka dibutakan dengan hal itu, sehingga jika tidak sesuai dengan standar tersebut, itu berarti penampilan mereka jelek. Selain percaya diri, standar penampilan tersebut juga merenggut rasa syukur mereka atas apa yang telah diberikan kepada mereka sejak lahir, yang tentu saja, berasal dari genetik orang tua mereka.<br>&emsp;&emsp;Padahal, bagaimanapun, kita masing-masing lah yang bisa menentukan diri kita memiliki penampilan yang bagus atau tidak. Jika kita sendiri yang memiliki penampilan kita menganggap penampilan kita itu tidak bagus, maka bagaimana orang akan melihatnya bagus? Mungkin akan ada beberapa orang yang bisa melihat dan mengatakan penampilanmu bagus, tapi tetap saja, penampilan itu memang berbeda-beda. Tidak ada penampilan yang kurang, yang ada hanya orang yang melihat standar dari orang lain sehingga ketika melihat penampilannya yang tidak sesuai dengan standar tersebut, mereka akan merasa kurang.</span></p>
+            <button id="morekiri">Read more</button>
+        </div>
+        <div class="repo kanan">
+            <img src="img/github.png" alt="logo github">
+            <h2>Waktu dan Spreadsheet</h2>
+            <h4>pienapin</h4>
+            <p>Sebenarnya seram, kalau membahas tentang waktu, kita benar-benar menghabiskan banyak waktu kita untuk hal-hal yang tidak penting, bahkan tidak berguna dan bahkan yang lebih parah adalah menurunkan kualitas diri kita, membawa masalah untuk hidup orang dan hal buruk lainnya. Saya yakin dan percaya kita semua memang memiliki jatah waktu masing-masing yang sudah tercatat dan ditentukan oleh Yang Maha Kuasa, Yang Menciptakan Langit dan Bumi, dan Menyempurnakannya. Dan jatah waktu yang diberikan itu tidak banyak, dan kita harus memanfaatkannya sebaik mungkin untuk hal-hal yang meningkatkan kualitas diri kita. Sebenarnya waktu itu banyak, disebut tidak banyak dan pendek jika kita mengisinya dengan hal-hal tak berguna.<span id="dots">..</span><span id="waktu"><br>&emsp;&emsp;Percayalah, waktu adalah aset anda yang paling berharga. Investasi yang memiliki return paling tinggi adalah menginvestasikan waktu anda untuk meningkatkan kualitas diri menjadi lebih baik, seminimal-minimalnya adalah waktu tersebut bermanfaat untuk menjadi pelajaran bagi anda, sehingga bisa menjadi pelajaran untuk waktu kedepannya, meningkatkan kemampuan menganalisa anda, meningkatkan intelijensi anda dalam memilih mana yang baik dan mana yang buruk, mana yang penting dan mana yang tidak.<br>&emsp;&emsp;Walaupun demikian, menyia-nyiakan waktu untuk hal yang tidak berguna bukanlah hal yang paling parah dalam pembahasan waktu. Karena yang paling buruk adalah mengakhiri waktu itu sendiri sebelum jatahnya habis. Banyak orang di dunia sana, ingin mendapatkan jatah waktu kembali, mereka menyesali waktu yang mereka gunakan untuk hal-hal tidak berguna. Karena itu janganlah anda menyelesaikan waktu anda sebelum jatahnya habis, karena konsekuensi yang anda dapatkan setelahnya sangat berat.</span></p>
+            <button class="btn" id="morekanan">Read more</button>
+        </div>
+    </div>
+    <footer>
+        <h4>@copyright 2022 || by pienapin</h4>
+    </footer>
+</body>
+
+</html>
